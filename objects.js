@@ -48,3 +48,5 @@ console.table(person);
 │   20    │  'bye'  │
 └─────────┴─────────┘
 */
+
+// object.freeze prevents you from changing an objects properties, but it only goes 1 layer deep.
